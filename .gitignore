@@ -1,0 +1,4 @@
+*.torrent
+/torrent_files
+*.txt
+__pycache__
